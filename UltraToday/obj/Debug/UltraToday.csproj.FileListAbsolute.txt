@@ -1,0 +1,10 @@
+/Users/junecho/Projects/UltraToday/UltraToday/bin/Debug/UltraToday.dll
+/Users/junecho/Projects/UltraToday/UltraToday/bin/Debug/UltraToday.pdb
+/Users/junecho/Projects/UltraToday/UltraToday/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/UltraToday/UltraToday/bin/Debug/Xamarin.UITest.dll
+/Users/junecho/Projects/UltraToday/UltraToday/bin/Debug/nunit.framework.xml
+/Users/junecho/Projects/UltraToday/UltraToday/bin/Debug/Xamarin.UITest.xml
+/Users/junecho/Projects/UltraToday/UltraToday/obj/Debug/UltraToday.csprojResolveAssemblyReference.cache
+/Users/junecho/Projects/UltraToday/UltraToday/obj/Debug/UltraToday.csproj.CoreCompileInputs.cache
+/Users/junecho/Projects/UltraToday/UltraToday/obj/Debug/UltraToday.dll
+/Users/junecho/Projects/UltraToday/UltraToday/obj/Debug/UltraToday.pdb

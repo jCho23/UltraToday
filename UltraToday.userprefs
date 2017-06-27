@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F9A42C46-7374-4B1C-B333-7F1C3A135C96}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UltraToday/Tests.cs">
+    <Files>
+      <File FileName="UltraToday/AppInitializer.cs" Line="31" Column="33" />
+      <File FileName="UltraToday/Tests.cs" Line="31" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UltraToday PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
